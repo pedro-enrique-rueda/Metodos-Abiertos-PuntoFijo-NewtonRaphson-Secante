@@ -1,4 +1,4 @@
-# Metodos-Abiertos-PuntoFijo-NewtonRaphson-Secante
+# Metodos-Abiertos-PuntoFijo-NewtonRaphson-Secante-Octave
 
 Este repositorio contiene 3 métodos numéricos abiertos: Punto Fijo Simple, Newton-Raphson y Secante. 
 Fueron hecho en Octave. Contiene un lindo menú tan solo al ejecutar el archivo PRINCIPAL.m donde podrás 
